@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="song_title">歌曲</string>
+    <string name="album_title">收藏</string>
+    <string name="artist_title">艺术家</string>
+    <string name="genre_title">类别</string>
+    <string name="settings_title">环境</string>
+    <string name="media_list_load_failed">发生错误</string>
+</resources>

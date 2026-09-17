@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+
+        <activity
+            android:name="com.andyha.coreutils.permission.PermissionRequestActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:configChanges="orientation|locale|layoutDirection|uiMode|fontScale|density|screenSize"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+    </application>
+
+</manifest>

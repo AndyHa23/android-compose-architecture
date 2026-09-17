@@ -1,0 +1,181 @@
+{
+  "project_info": {
+    "project_number": "226253768181",
+    "project_id": "android-compose-architecture",
+    "storage_bucket": "android-compose-architecture.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226253768181:android:7b3cf1983a77a2fd824cbc",
+        "android_client_info": {
+          "package_name": "com.andyha.composearchitecture.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z-x4mxnvzoVaonucbeZ8t77coxvp0Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226253768181:android:639553c73de33f18824cbc",
+        "android_client_info": {
+          "package_name": "com.andyha.composearchitecture.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z-x4mxnvzoVaonucbeZ8t77coxvp0Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226253768181:android:42df9e6b1ce21d7e824cbc",
+        "android_client_info": {
+          "package_name": "com.andyha.composearchitecture.app.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z-x4mxnvzoVaonucbeZ8t77coxvp0Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226253768181:android:9d914bfac153f75c824cbc",
+        "android_client_info": {
+          "package_name": "com.andyha.demomusic.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z-x4mxnvzoVaonucbeZ8t77coxvp0Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226253768181:android:4dafeabc12fb479b824cbc",
+        "android_client_info": {
+          "package_name": "com.andyha.demomusic.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z-x4mxnvzoVaonucbeZ8t77coxvp0Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226253768181:android:a0ff0a1e1352a1e3824cbc",
+        "android_client_info": {
+          "package_name": "com.andyha.demomusic.app.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z-x4mxnvzoVaonucbeZ8t77coxvp0Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226253768181:android:e6bc2888ed0cd816824cbc",
+        "android_client_info": {
+          "package_name": "com.andyha.demoweather.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z-x4mxnvzoVaonucbeZ8t77coxvp0Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226253768181:android:174769a9ec5a589f824cbc",
+        "android_client_info": {
+          "package_name": "com.andyha.demoweather.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z-x4mxnvzoVaonucbeZ8t77coxvp0Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226253768181:android:b80ab39572ceec29824cbc",
+        "android_client_info": {
+          "package_name": "com.andyha.demoweather.app.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z-x4mxnvzoVaonucbeZ8t77coxvp0Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

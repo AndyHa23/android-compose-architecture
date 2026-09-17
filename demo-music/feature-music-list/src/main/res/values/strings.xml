@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="song_title">Song</string>
+    <string name="album_title">Album</string>
+    <string name="artist_title">Artist</string>
+    <string name="genre_title">Genre</string>
+    <string name="settings_title">Settings</string>
+    <string name="media_list_load_failed">An error occured</string>
+</resources>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="system_native_name">Hệ Thống</string>
+    <string name="english_native_name">Tiếng Anh</string>
+    <string name="vietnamese_native_name">Tiếng Việt</string>
+    <string name="chinese_native_name">Tiếng Trung (Giản Thể)</string>
+
+    <string name="change_language">Đổi ngôn ngữ</string>
+    <string name="change_theme">Đổi giao diện</string>
+</resources>

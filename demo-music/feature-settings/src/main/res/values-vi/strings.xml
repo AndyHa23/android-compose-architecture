@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="system_theme">Hệ Thống</string>
+    <string name="light_theme">Sáng</string>
+    <string name="dark_theme">Tối</string>
+    <string name="use_material_you">Sử Dụng Material You</string>
+    <string name="setting_language_title">Ngôn Ngữ</string>
+    <string name="setting_font_title">Phông Chữ</string>
+    <string name="setting_font_scale_title">Cỡ Chữ</string>
+    <string name="setting_theme_title">Chủ Đề</string>
+    <string name="setting_material_you_title">Material You</string>
+    <string name="setting_primary_color">Màu Chủ Đạo</string>
+    <string name="setting_primary_color_material_you_hint">Tắt Material You để chọn màu</string>
+    <string name="reset">Đặt Lại</string>
+    <string name="cancel">Hủy</string>
+    <string name="done">Hoàn Tất</string>
+</resources>

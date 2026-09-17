@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="system_native_name">系统</string>
+    <string name="english_native_name">英语</string>
+    <string name="vietnamese_native_name">越南语</string>
+    <string name="chinese_native_name">中国人</string>
+</resources>

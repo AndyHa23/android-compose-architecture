@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="system_theme">System</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="use_material_you">Use Material You</string>
+    <string name="setting_language_title">Language</string>
+    <string name="setting_font_title">Font</string>
+    <string name="setting_font_scale_title">Font Scale</string>
+    <string name="setting_theme_title">Theme</string>
+    <string name="setting_material_you_title">Material You</string>
+    <string name="setting_primary_color">Primary Color</string>
+    <string name="setting_primary_color_material_you_hint">Turn off Material You to pick a color</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+</resources>

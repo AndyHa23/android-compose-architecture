@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="song_title">Bài hát</string>
+    <string name="album_title">Bộ sưu tập</string>
+    <string name="artist_title">Nghệ sĩ</string>
+    <string name="genre_title">Thể loại</string>
+    <string name="settings_title">Cài đặt</string>
+    <string name="media_list_load_failed">Có lỗi xảy ra</string>
+</resources>
